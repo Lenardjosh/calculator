@@ -61,7 +61,7 @@ class Calculator:
         expression = self.display.get()
         
         if expression == "2+2":
-            video_path = r"c:\Users\lenar_dd984th\Downloads\0cd36a28-5830-412a-9374-2505e694f0fd.mp4"
+            video_path = r"0cd36a28-5830-412a-9374-2505e694f0fd.mp4"
             
             if os.path.exists(video_path):
                 try:
